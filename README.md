@@ -1,1 +1,1 @@
-# DSA
+# ssd-lab3 task
